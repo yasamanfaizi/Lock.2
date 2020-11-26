@@ -1,6 +1,6 @@
 function preload(){
   TorchImg = loadImage("Torch.png");
-  EighteenImg = loadImage("Paper.png");
+  EighteenImg = loadImage("final_5fbdac26927e0b00f5b93ed9_239040 (4).png");
 }
 
 function setup(){
