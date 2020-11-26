@@ -6,7 +6,7 @@ function preload(){
 function setup(){
   createCanvas(600,600);
  torch = createSprite(100,100);
-eighteen = createSprite(590,50);
+eighteen = createSprite(590,70);
   torch.addImage(TorchImg);
   torch.scale = 0.2;
   eighteen.addImage(EighteenImg);
